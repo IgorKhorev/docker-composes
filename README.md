@@ -42,3 +42,4 @@ INSERT INTO test_table (NAME,SURNAME,CITY,AGE) VALUES
 ## SELECT AGE FROM test_table WHERE LENGTH(NAME) < 6
 
 #### 4. Получившийся результат должен выводиться в терминале docker при запуске образа. 
+![Screen_docker-compose](
